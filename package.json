@@ -31,7 +31,10 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "chart.js": "^2.8.0",
+    "chartjs-plugin-error-bars": "^1.2.2"
+  },
   "devDependencies": {
     "chokidar": "^3.0.0",
     "eslint": "^5.16.0",
